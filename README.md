@@ -22,8 +22,14 @@
 - HTML/CSS/Javascript
 
 ### Screenshots (Desktop)
-![Home](https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_home_page.png?raw=true)
-![Sign up](https://github.com/K-712/web-portfolio/blob/main/Secrets/Secrets_signup.png?raw=true)
-![Login](https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_login.png?raw=true)
-![Secrets page](https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_secrets_page.png?raw=true)
-![Submit a secret](https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_submit_secret.png?raw=true)
+Home       |  Sign up
+:-------------------------:|:-------------------------:
+<img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_home_page.png?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Secrets_signup.png?raw=true " width="350">
+
+Login       |  Secrets
+:-------------------------:|:-------------------------:
+<img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_login.png?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_secrets_page.png?raw=true " width="350">
+
+Submitting a secret |
+:-------------------------:
+<img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/secrets_submit_secret.png?raw=true " width="350"> |
