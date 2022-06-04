@@ -19,6 +19,7 @@
 - Passport
 - Google OAuth
 - Google API
+- Bootstrap
 - HTML/CSS/Javascript
 
 ### Screenshots (Desktop)
