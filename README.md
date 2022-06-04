@@ -78,6 +78,6 @@ Users can sign up to a mailing list managed by MailChimp. Unfortunately you'll n
   
 Desktop       |  Mobile
 :-------------------------:|:-------------------------:
-<img src="https://github.com/K-712/web-portfolio/blob/main/MailingList/Screenshot%202022-06-04%20at%2014.47.00.png?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/MailingList/Screenshot_20220604-144921.jpg?raw=true " width="350">
+<img src="https://github.com/K-712/web-portfolio/blob/main/MailingList/Screenshot%202022-06-04%20at%2014.47.00.png?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/MailingList/Screenshot_20220604-144921.jpg?raw=true " width="150">
 
 </details>
