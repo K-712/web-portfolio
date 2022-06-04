@@ -46,9 +46,9 @@ Submitting a secret |
 :-------------------------:|:-------------------------:
 <img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Screenshot_20220604-142551.jpg?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Screenshot_20220604-142600.jpg?raw=true " width="350">
 
-Login       |  Secrets
+Login       |  Secrets (extended screenshot)
 :-------------------------:|:-------------------------:
-<img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Screenshot_20220604-141847__01.jpg?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Screenshot_20220604-142002.jpg?raw=true " width="350"> (extended screenshot)
+<img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Screenshot_20220604-141847__01.jpg?raw=true" width="350">  |  <img src="https://github.com/K-712/web-portfolio/blob/main/Secrets/Screenshot_20220604-142002.jpg?raw=true " width="350"> 
 
 Submitting a secret |
 :-------------------------:
