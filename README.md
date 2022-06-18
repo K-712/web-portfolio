@@ -20,11 +20,18 @@ A react app for managing simple tasks.
   <img src="https://github.com/K-712/web-portfolio/blob/main/Tasks/tasks-desktop-1.png?raw=true" width="350">
     <img src="https://github.com/K-712/web-portfolio/blob/main/Tasks/tasks-desktop-2.png?raw=true" width="350">
     <img src="https://github.com/K-712/web-portfolio/blob/main/Tasks/tasks-desktop-3.png?raw=true" width="350">
+</details>
+
+<details>
     <summary>Tablet View</summary>
     <img src="https://github.com/K-712/web-portfolio/blob/main/Tasks/tasks-ipad.png?raw=true" width="350">
+</details>
+
+<details>
     <summary>Mobile View</summary>
     <img src="https://github.com/K-712/web-portfolio/blob/main/Tasks/tasks-phone.png?raw=true" width="350">
 </details>
+
 
 ## [Secrets: share your secrets anonymously with the world!](https://3000-k712-secretsejs-cxd5tucwj6c.ws-eu46.gitpod.io)
 ### About
