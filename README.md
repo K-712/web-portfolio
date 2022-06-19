@@ -2,7 +2,7 @@
 
 ## [Tasks: organise your to-dos](https://github.com/K-712/Tasks-React-App)
 ### About
-A react app for managing simple tasks. 
+A react app for managing simple tasks. (I am currently adding in backend functionality to retrieve data from MongoDB, and implementing login)
 
 ### Functions
 - Add tasks
